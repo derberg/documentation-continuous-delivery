@@ -460,7 +460,8 @@
 			'<div class="navigate-left"></div>' +
 			'<div class="navigate-right"></div>' +
 			'<div class="navigate-up"></div>' +
-			'<div class="navigate-down"></div>' );
+			'<div class="navigate-down"></div>' +
+		 	'<img src="img/soap.png"/>');
 
 		// Slide number
 		dom.slideNumber = createSingletonNode( dom.wrapper, 'div', 'slide-number', '' );
