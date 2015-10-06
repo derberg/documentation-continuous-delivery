@@ -13,7 +13,9 @@ It was possible thanks to the company I work in that sponsored my travel each ti
 
 # Promoted Technology
 
-The most important piece of the whole new approach to independent documentation continuous delivery is based on super cool tool created by [Benjamin Lupton](https://github.com/balupton). It is a static site generator (but not only!) called [DocPad](https://docpad.org/).
+The most important piece of the whole new approach to independent documentation continuous delivery is based on:
+* super cool tool created by [Benjamin Lupton](https://github.com/balupton). It is a static site generator (but not only!) called [DocPad](https://docpad.org/),
+* amazing task runner http://gulpjs.com/
 
 # Presentation Built With
 
