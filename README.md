@@ -6,7 +6,9 @@ This presentation promotes a new approach to documenting software. It's main foc
 
 This new approach was presented on the following conferences:
 * [Cloudyna in Katowice, Poland in 2014](http://www.cloudyna.org/), [Video - in Polish](https://www.youtube.com/watch?v=F-1goNbdBkc)
-* [Evolution of Technical Communication in Sofia, Bulgaria in 2015](http://etc-conference.eu/), no video yet as it will happen on 19th of June.
+* [Evolution of Technical Communication in Sofia, Bulgaria in 2015](http://etc-conference.eu/), no video recording.
+* [Soap! in Cracow, Poland in 2015](http://soapconf.com/)
+* [Gliwice Software BarCamp in Gliwice, Poland in 2015](http://www.meetup.com/Gliwice-Software-BarCamp/)
 
 It was possible thanks to the company I work in that sponsored my travel each time. It is SAP.
 <img src="img/sap.png"/>
